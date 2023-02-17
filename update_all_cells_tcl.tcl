@@ -1,7 +1,6 @@
 ################################################################################
 # Name: update_all_cells_tcl                                                   #
-# Purpose:  fix pt value of labels that originate from db with different ui    #
-#           scale from the current database                                    #
+# Purpose: force update all the cells in a specific library		       #
 #                                                                              #
 # Please use this script at your own discretion and responsibility. Even though#
 # This script was tested and passed the QA criteria to meet the intended       #
